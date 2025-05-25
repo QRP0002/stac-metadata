@@ -2,51 +2,90 @@ import json
 import os
 import pystac
 import rasterio
+import requests
 
 from dotenv import load_dotenv
 from datetime import datetime, timezone
 from shapely.geometry import Polygon, mapping
+from entities.bbox import BBox
+from entities.sb_item import SBItem
 
 class StacItem:
     item = None
+    sb_id = ''
+    title = ''
+    summary = ''
+    sb_item = None
 
-    def __init__(self, image_path):
+    def __init__(self, id, title, summary):
         load_dotenv()
-        self.item = self.build_item(image_path)
+        self.sb_id = id
+        self.title = title
+        self.summary = summary
 
-    def build_item(self, image_path):
-        bbox, footprint = self.get_bbox_and_footprint(image_path)
-        datetime_utc = datetime.now(tz=timezone.utc)
-        id = os.path.basename(image_path)
+        self.fetch_sb_metadata()
+
+        self.item = self.build_item()
+
+    def fetch_sb_metadata(self):
+        url = f'{os.environ['SB_JSON_URL']}/{self.sb_id}?format=json'
+        r = requests.get(url)
+        response = r.json()
         
-        new_item = pystac.Item(id=id,
+        webLinksLen = len(response['webLinks'])
+        image_uri = response['webLinks'][webLinksLen - 1]['uri']
+
+        publication_date = response['dates'][0]
+        start_date = response['dates'][1]
+        end_date = response['dates'][2]
+
+        _bbox= response['spatial']['boundingBox']        
+        self.sb_item = SBItem(
+            image_uri,
+            publication_date,
+            start_date,
+            end_date,
+            _bbox
+        )
+
+    def build_item(self):
+        bbox, footprint = self.get_bbox_and_footprint(self.sb_item.bbox)
+        datetime_utc = datetime.now(tz=timezone.utc)
+        id = self.title
+        
+        new_item = pystac.Item(
+            id=id,
             geometry=footprint,
             bbox=bbox,
             datetime=datetime_utc,
-            properties={}
+            properties={
+                'title': self.title,
+                'summary': self.summary,
+                'publication_datetime': self.sb_item.publication,
+                'start_datetime': self.sb_item.start,
+                'end_datetime': self.sb_item.end,
+            }
         )
 
-        item_image_path = os.path.join(os.environ['IMAGE_BUCKET_BASE_URL'], id)
         new_item.add_asset(
             key='geotiff',
             asset=pystac.Asset(
-                href=item_image_path,
+                href=self.sb_item.image_uri,
                 media_type=pystac.MediaType.GEOTIFF
             )
         )
 
         return new_item
 
-    def get_bbox_and_footprint(self, image_path):
-        with rasterio.open(image_path) as r:
-            bounds = r.bounds
-            bbox = [bounds.left, bounds.bottom, bounds.right, bounds.top]
-            footprint = Polygon([
-                [bounds.left, bounds.bottom],
-                [bounds.left, bounds.top],
-                [bounds.right, bounds.bottom],
-                [bounds.right, bounds.top],         
-            ])
+    def get_bbox_and_footprint(self, bbox):
+        _bbox = (bbox.min_x, bbox.min_y, bbox.max_x, bbox.max_y)
+        footprint = Polygon([
+            [bbox.min_x, bbox.min_y],
+            [bbox.min_x, bbox.max_y],
+            [bbox.max_x, bbox.max_y],
+            [bbox.max_x, bbox.min_y],         
+            [bbox.min_x, bbox.min_y]
+        ])
 
-            return (bbox, mapping(footprint))
+        return (_bbox, mapping(footprint))
        
