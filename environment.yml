@@ -1,0 +1,10 @@
+name: stac
+channels:
+  - conda-forge
+dependencies:
+  - pystac=1.13.0
+  - rasterio=1.4.3
+  - boto3=1.38.23
+  - shapely=2.1.1
+  - python-dotenv=1.1.0
+  - boto3=1.38.23
