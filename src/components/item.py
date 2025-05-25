@@ -51,7 +51,7 @@ class StacItem:
     def build_item(self):
         bbox, footprint = self.get_bbox_and_footprint(self.sb_item.bbox)
         datetime_utc = datetime.now(tz=timezone.utc)
-        id = os.path.basename(self.sb_item.image_uri)
+        id = self.title
         
         new_item = pystac.Item(
             id=id,
