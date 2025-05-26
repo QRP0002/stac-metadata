@@ -4,12 +4,26 @@
     "title": "Quinn DEM STAC",
     "description": "STAC for all types various types of DEM data."
   },
-  "collection": {
-    "id": "1m-dem",
-    "description": "Collection of USGS 1m DEM COGs",
-    "title": "Quinn 1m DEM"
-  },
-  "items": {
-    "data": "../data/sb_1_meter_dem.json"
-  }
+  "collections": [
+    {
+      "collection": {
+        "id": "1m-dem",
+        "description": "Collection of USGS 1m DEM",
+        "title": "Quinn 1m DEM"
+      },
+      "items": {
+        "data": "../data/sb_1_meter_dem.json"
+      }  
+    },
+    {
+      "collection": {
+        "id": "1-3rd-arc-sec-current-dem",
+        "description": "Collection of USGS 1 3rd arc second DEM",
+        "title": "Quinn 13rd DEM"
+      },
+      "items": {
+        "data": "../data/sb_1_3_as.json"
+      }  
+    }
+  ]
 }
