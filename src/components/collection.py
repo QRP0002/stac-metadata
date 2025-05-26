@@ -61,3 +61,8 @@ class StacCollection:
 
     def find_max(self, current, compare):
         return max(current, compare)
+
+    def add_items(self, items, collection):
+        for item in items:
+            collection.add_item(item)
+        return collection
