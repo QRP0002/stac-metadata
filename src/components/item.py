@@ -3,6 +3,7 @@ import os
 import pystac
 import rasterio
 import requests
+import re
 
 from dotenv import load_dotenv
 from datetime import datetime, timezone
@@ -55,7 +56,7 @@ class StacItem:
     def build_item(self):
         bbox, footprint = self.get_bbox_and_footprint(self.sb_item.bbox)
         datetime_utc = datetime.now(tz=timezone.utc)
-        id = self.title
+        id = re.sub("1/3", "1-3", self.title)
         
         new_item = pystac.Item(
             id=id,
