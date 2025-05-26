@@ -39,13 +39,17 @@ class StacItem:
         start_date = response['dates'][1]
         end_date = response['dates'][2]
 
+        tags = response['tags']
+
         _bbox= response['spatial']['boundingBox']        
+
         self.sb_item = SBItem(
             image_uri,
             publication_date,
             start_date,
             end_date,
-            _bbox
+            _bbox,
+            tags
         )
 
     def build_item(self):
@@ -64,6 +68,7 @@ class StacItem:
                 'publication_datetime': self.sb_item.publication,
                 'start_datetime': self.sb_item.start,
                 'end_datetime': self.sb_item.end,
+                'tags': list(self.sb_item.tags)
             }
         )
 

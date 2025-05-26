@@ -1,0 +1,394 @@
+{
+  "total": 106758,
+  "took": "7ms",
+  "selflink": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/items/get?q=&max=20&format=json&filter=tags%3DDigital+Elevation+Model+%28DEM%29+1+meter"
+  },
+  "nextlink": {
+    "rel": "next",
+    "url": "https://www.sciencebase.gov/catalog/items/get?q=&max=20&format=json&filter=tags%3DDigital+Elevation+Model+%28DEM%29+1+meter&offset=20"
+  },
+  "items": [
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66595e8fd34ef3137d363178"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66595e8fd34ef3137d363178",
+          "rel": "related"
+        }
+      },
+      "id": "66595e8fd34ef3137d363178",
+      "title": "USGS 1 Meter 11 x58y472 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596526d34ef3137d363bd5"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596526d34ef3137d363bd5",
+          "rel": "related"
+        }
+      },
+      "id": "66596526d34ef3137d363bd5",
+      "title": "USGS 1 Meter 12 x33y497 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659652cd34ef3137d363be0"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659652cd34ef3137d363be0",
+          "rel": "related"
+        }
+      },
+      "id": "6659652cd34ef3137d363be0",
+      "title": "USGS 1 Meter 12 x33y495 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596546d34ef3137d363c16"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596546d34ef3137d363c16",
+          "rel": "related"
+        }
+      },
+      "id": "66596546d34ef3137d363c16",
+      "title": "USGS 1 Meter 12 x33y487 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596420d34ef3137d3639c8"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596420d34ef3137d3639c8",
+          "rel": "related"
+        }
+      },
+      "id": "66596420d34ef3137d3639c8",
+      "title": "USGS 1 Meter 12 x36y490 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/665965bad34ef3137d363ccc"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=665965bad34ef3137d363ccc",
+          "rel": "related"
+        }
+      },
+      "id": "665965bad34ef3137d363ccc",
+      "title": "USGS 1 Meter 12 x32y492 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659644ed34ef3137d363a2a"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659644ed34ef3137d363a2a",
+          "rel": "related"
+        }
+      },
+      "id": "6659644ed34ef3137d363a2a",
+      "title": "USGS 1 Meter 12 x36y474 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596456d34ef3137d363a3a"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596456d34ef3137d363a3a",
+          "rel": "related"
+        }
+      },
+      "id": "66596456d34ef3137d363a3a",
+      "title": "USGS 1 Meter 12 x36y471 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659661ad34ef3137d363d86"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659661ad34ef3137d363d86",
+          "rel": "related"
+        }
+      },
+      "id": "6659661ad34ef3137d363d86",
+      "title": "USGS 1 Meter 12 x31y494 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659661dd34ef3137d363d8c"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659661dd34ef3137d363d8c",
+          "rel": "related"
+        }
+      },
+      "id": "6659661dd34ef3137d363d8c",
+      "title": "USGS 1 Meter 12 x31y493 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596622d34ef3137d363d98"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596622d34ef3137d363d98",
+          "rel": "related"
+        }
+      },
+      "id": "66596622d34ef3137d363d98",
+      "title": "USGS 1 Meter 12 x31y491 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596624d34ef3137d363d9e"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596624d34ef3137d363d9e",
+          "rel": "related"
+        }
+      },
+      "id": "66596624d34ef3137d363d9e",
+      "title": "USGS 1 Meter 12 x31y490 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66596647d34ef3137d363de6"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66596647d34ef3137d363de6",
+          "rel": "related"
+        }
+      },
+      "id": "66596647d34ef3137d363de6",
+      "title": "USGS 1 Meter 12 x31y477 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659607fd34ef3137d363452"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659607fd34ef3137d363452",
+          "rel": "related"
+        }
+      },
+      "id": "6659607fd34ef3137d363452",
+      "title": "USGS 1 Meter 12 x49y494 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/665960c4d34ef3137d3634ba"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=665960c4d34ef3137d3634ba",
+          "rel": "related"
+        }
+      },
+      "id": "665960c4d34ef3137d3634ba",
+      "title": "USGS 1 Meter 11 x49y476 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/665960d3d34ef3137d3634cd"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=665960d3d34ef3137d3634cd",
+          "rel": "related"
+        }
+      },
+      "id": "665960d3d34ef3137d3634cd",
+      "title": "USGS 1 Meter 11 x49y471 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659690fd34ef3137d3642b2"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659690fd34ef3137d3642b2",
+          "rel": "related"
+        }
+      },
+      "id": "6659690fd34ef3137d3642b2",
+      "title": "USGS 1 Meter 12 x25y502 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/665964b9d34ef3137d363afe"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=665964b9d34ef3137d363afe",
+          "rel": "related"
+        }
+      },
+      "id": "665964b9d34ef3137d363afe",
+      "title": "USGS 1 Meter 12 x35y468 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6659699dd34ef3137d3643d3"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6659699dd34ef3137d3643d3",
+          "rel": "related"
+        }
+      },
+      "id": "6659699dd34ef3137d3643d3",
+      "title": "USGS 1 Meter 12 x24y468 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/665966d0d34ef3137d363efc"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=665966d0d34ef3137d363efc",
+          "rel": "related"
+        }
+      },
+      "id": "665966d0d34ef3137d363efc",
+      "title": "USGS 1 Meter 12 x29y501 ID_SouthernID_2018_D19",
+      "summary": "This is a tile of the standard one-meter resolution digital elevation model (DEM) produced through the 3D Elevation Program (3DEP) . The elevations in this DEM represent the topographic bare-earth surface. USGS standard one-meter DEMs are produced exclusively from high resolution light detection and ranging (lidar) source data of one-meter or higher resolution. One-meter DEM surfaces are seamless within collection projects, but, not necessarily seamless across projects. The spatial reference used for tiles of the one-meter DEM within the conterminous United States (CONUS) is Universal Transverse Mercator (UTM) in units of meters, and in conformance with the North American Datum of 1983 (NAD83). All bare earth elevation values are in [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    }
+  ]
+}

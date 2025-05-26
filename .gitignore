@@ -27,7 +27,7 @@ share/python-wheels/
 MANIFEST
 
 # Local Files
-data/
+# data/
 output/
 build.py
 

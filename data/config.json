@@ -1,0 +1,15 @@
+{
+  "catalog" : {
+    "id": "quinn-dem",
+    "title": "Quinn DEM STAC",
+    "description": "STAC for all types various types of DEM data."
+  },
+  "collection": {
+    "id": "1m-dem",
+    "description": "Collection of USGS 1m DEM COGs",
+    "title": "Quinn 1m DEM"
+  },
+  "items": {
+    "data": "../data/sb_1_meter_dem.json"
+  }
+}
