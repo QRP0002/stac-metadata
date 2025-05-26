@@ -2,7 +2,7 @@
 Just random notes for now, nothing important.
 
 ### SB Query
-- ` /catalog/items/get?q=&max=20&format=json&filter=tags%3DDigital%20Elevation%20Model%20(DEM)%201%20meter`
+- `/catalog/items/get?q=&max=20&offset=300&format=json&filter=tags%3DDigital%20Elevation%20Model%20(DEM)%201%20meter`
 - `https://www.sciencebase.gov/catalog/item/66595e8fd34ef3137d363178?format=json`
 - Add `?format=json` to the end of the SB JSON fetch.
 ### Item
