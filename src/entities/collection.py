@@ -1,28 +1,20 @@
-import pystac
 from datetime import datetime
-from shapely.geometry import box
+from entities.bbox import BBox
 
 class Collection:
     id = ''
     description = ''
     title = ''
-    keywords = []
-    extent = None
+    start_datetime = None
+    end_datetime = None
+    keys = None
+    bbox = None
 
-    def __init__(self, id, description, title, keywords, 
-            bbox, start_time, end_time):
-        
+    def __init__(self, id, description, title):
         self.id = id
-        self.description = description 
+        self.description = description
         self.title = title
-        self.keywords = keywords        
-        self.extent = self.create_extent(bbox, start_time, end_time)
-
-    def create_extent(self, bbox, start_time, end_time):
-        new_extent = pystac.Extent(
-            spatial=pystac.SpatialExtent([bbox]),
-            temporal=pystac.TemporalExtent([[start_time, end_time]])
-        )
-
-        return new_extent
-        
+        self.start_datetime = datetime.now()
+        self.end_datetime = datetime(1700, 5, 17)
+        self.keys = set([])
+        self.bbox = BBox(180, -180, 90, -90)
