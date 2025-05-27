@@ -1,8 +1,6 @@
 import json
 import os
 import pystac
-import rasterio
-import requests
 import re
 
 from dotenv import load_dotenv
@@ -10,6 +8,7 @@ from datetime import datetime, timezone
 from shapely.geometry import Polygon, mapping
 from entities.bbox import BBox
 from entities.sb_item import SBItem
+from http_requests.http_requests import HttpRequests
 
 class StacItem:
     item = None
@@ -30,8 +29,7 @@ class StacItem:
 
     def fetch_sb_metadata(self):
         url = f'{os.environ['SB_JSON_URL']}/{self.sb_id}?format=json'
-        r = requests.get(url)
-        response = r.json()
+        response = HttpRequests.get_request(url)
         
         webLinksLen = len(response['webLinks'])
         image_uri = response['webLinks'][webLinksLen - 1]['uri']

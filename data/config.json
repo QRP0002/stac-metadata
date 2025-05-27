@@ -12,7 +12,8 @@
         "title": "Quinn 1m DEM"
       },
       "items": {
-        "data": "../data/sb_1_meter_dem.json"
+        "data": "../data/sb_1_meter_dem.json",
+        "sb_query": "catalog/items/get?q=&max=20&format=json&filter=tags%3DDigital%20Elevation%20Model%20(DEM)%201%20meter"
       }  
     },
     {
@@ -22,8 +23,20 @@
         "title": "Quinn 13rd DEM"
       },
       "items": {
-        "data": "../data/sb_1_3_as.json"
+        "data": "../data/sb_1_3_as.json",
+        "sb_query": "catalog/items/get?q=&max=20&format=json&filter=tags%3D1%2F3%20arc-second%20DEM"
       }  
+    },
+    {
+      "collection": {
+        "id": "1-arc-second-dem",
+        "description": "Collection of USGS 1 arc second DEM",
+        "title": "Quinn 1 arcsecond DEM"
+      },
+      "items": {
+        "data": "../data/sb_1_as.json",
+        "sb_query": "catalog/items/get?q=&max=20&format=json&filter=tags%3D1%20arc-second%20DEM"
+      }
     }
   ]
 }
