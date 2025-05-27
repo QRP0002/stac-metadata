@@ -1,0 +1,394 @@
+{
+  "total": 6116,
+  "took": "31ms",
+  "selflink": {
+    "rel": "self",
+    "url": "https://www.sciencebase.gov/catalog/items/get?q=&max=20&format=json&filter=tags%3D1+arc-second+DEM"
+  },
+  "nextlink": {
+    "rel": "next",
+    "url": "https://www.sciencebase.gov/catalog/items/get?q=&max=20&format=json&filter=tags%3D1+arc-second+DEM&offset=20"
+  },
+  "items": [
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5df04e72e4b02caea0f4f7fe"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5df04e72e4b02caea0f4f7fe",
+          "rel": "related"
+        }
+      },
+      "id": "5df04e72e4b02caea0f4f7fe",
+      "title": "USGS 1 arc-second n33w109 1 x 1 degree",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 arc-second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/62f5de7fd34eacf53973ab22"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=62f5de7fd34eacf53973ab22",
+          "rel": "related"
+        }
+      },
+      "id": "62f5de7fd34eacf53973ab22",
+      "title": "USGS 1 Arc Second n33w110 20220811",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/60c2edecd34e86b93896a484"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=60c2edecd34e86b93896a484",
+          "rel": "related"
+        }
+      },
+      "id": "60c2edecd34e86b93896a484",
+      "title": "USGS 1 Arc Second n49w114 20210607",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5df04fb7e4b02caea0f4ff9f"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5df04fb7e4b02caea0f4ff9f",
+          "rel": "related"
+        }
+      },
+      "id": "5df04fb7e4b02caea0f4ff9f",
+      "title": "USGS 1 arc-second n50w114 1 x 1 degree",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 arc-second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/65979babd34e3265ab158fe0"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=65979babd34e3265ab158fe0",
+          "rel": "related"
+        }
+      },
+      "id": "65979babd34e3265ab158fe0",
+      "title": "USGS 1 Arc Second n48w109 20231101",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/663b07d2d34e77890839b4fc"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=663b07d2d34e77890839b4fc",
+          "rel": "related"
+        }
+      },
+      "id": "663b07d2d34e77890839b4fc",
+      "title": "USGS 1 Arc Second n50w113 20240507",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/627f377fd34e3bef0c9a3178"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=627f377fd34e3bef0c9a3178",
+          "rel": "related"
+        }
+      },
+      "id": "627f377fd34e3bef0c9a3178",
+      "title": "USGS 1 Arc Second n37w082 20220512",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5df04e47e4b02caea0f4f740"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5df04e47e4b02caea0f4f740",
+          "rel": "related"
+        }
+      },
+      "id": "5df04e47e4b02caea0f4f740",
+      "title": "USGS 1 arc-second n31w089 1 x 1 degree",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 arc-second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/666099c7d34e16b8573d1419"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=666099c7d34e16b8573d1419",
+          "rel": "related"
+        }
+      },
+      "id": "666099c7d34e16b8573d1419",
+      "title": "USGS 1 Arc Second n44w088 20240604",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/666293f0d34e4d5e84841126"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=666293f0d34e4d5e84841126",
+          "rel": "related"
+        }
+      },
+      "id": "666293f0d34e4d5e84841126",
+      "title": "USGS 1 Arc Second n36w110 20240606",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6052a7fcd34e7eb1cb3eb6bb"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6052a7fcd34e7eb1cb3eb6bb",
+          "rel": "related"
+        }
+      },
+      "id": "6052a7fcd34e7eb1cb3eb6bb",
+      "title": "USGS 1 Arc Second n37w081 20210305",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/65bb33c0d34e18c6baf2dfe1"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=65bb33c0d34e18c6baf2dfe1",
+          "rel": "related"
+        }
+      },
+      "id": "65bb33c0d34e18c6baf2dfe1",
+      "title": "USGS 1 Arc Second n43w089 20240125",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/66726634d34e84915adbaead"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=66726634d34e84915adbaead",
+          "rel": "related"
+        }
+      },
+      "id": "66726634d34e84915adbaead",
+      "title": "USGS 1 Arc Second n47w121 20240617",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/5df04fb7e4b02caea0f4ffab"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=5df04fb7e4b02caea0f4ffab",
+          "rel": "related"
+        }
+      },
+      "id": "5df04fb7e4b02caea0f4ffab",
+      "title": "USGS 1 arc-second n50w120 1 x 1 degree",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 arc-second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/660de513d34ededd8cd82454"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=660de513d34ededd8cd82454",
+          "rel": "related"
+        }
+      },
+      "id": "660de513d34ededd8cd82454",
+      "title": "USGS 1 Arc Second n36w113 20240402",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/63eb23a2d34efa0476aed1fb"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=63eb23a2d34efa0476aed1fb",
+          "rel": "related"
+        }
+      },
+      "id": "63eb23a2d34efa0476aed1fb",
+      "title": "USGS 1 Arc Second n45w090 20230210",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6375ce1bd34ed907bf6d6731"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6375ce1bd34ed907bf6d6731",
+          "rel": "related"
+        }
+      },
+      "id": "6375ce1bd34ed907bf6d6731",
+      "title": "USGS 1 Arc Second n47w092 20221115",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/667cf208d34ef010cb6d13a5"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=667cf208d34ef010cb6d13a5",
+          "rel": "related"
+        }
+      },
+      "id": "667cf208d34ef010cb6d13a5",
+      "title": "USGS 1 Arc Second n47w089 20240625",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/6369f084d34ed907bf6a26da"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=6369f084d34ed907bf6a26da",
+          "rel": "related"
+        }
+      },
+      "id": "6369f084d34ed907bf6a26da",
+      "title": "USGS 1 Arc Second n43w093 20221104",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    },
+    {
+      "link": {
+        "rel": "self",
+        "url": "https://www.sciencebase.gov/catalog/item/63a2a11ad34e176674f52072"
+      },
+      "relatedItems": {
+        "link": {
+          "url": "https://www.sciencebase.gov/catalog/itemLinks?itemId=63a2a11ad34e176674f52072",
+          "rel": "related"
+        }
+      },
+      "id": "63a2a11ad34e176674f52072",
+      "title": "USGS 1 Arc Second n43w096 20221218",
+      "summary": "This tile of the 3D Elevation Program (3DEP) seamless products is 1 Arc Second resolution. 3DEP data serve as the elevation layer of The National Map, and provide basic elevation information for Earth science studies and mapping applications in the United States. Scientists and resource managers use 3DEP data for global change research, hydrologic modeling, resource monitoring, mapping and visualization, and many other applications. 3DEP data compose an elevation dataset that consists of seamless layers and a high resolution layer. Each of these layers consists of the best available raster elevation data of the conterminous United States, Alaska, Hawaii, territorial islands, Mexico and Canada. 3DEP data are updated continually as new [...]",
+      "hasChildren": false,
+      "_searchHit": {
+        "_score": 1
+      }
+    }
+  ]
+}
