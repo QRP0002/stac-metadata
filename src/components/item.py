@@ -54,7 +54,7 @@ class StacItem:
     def build_item(self):
         bbox, footprint = self.get_bbox_and_footprint(self.sb_item.bbox)
         datetime_utc = datetime.now(tz=timezone.utc)
-        id = re.sub("1/3", "1-3", self.title)
+        id = self.scrub_item_id(self.title)
         
         new_item = pystac.Item(
             id=id,
@@ -92,4 +92,12 @@ class StacItem:
         ])
 
         return (_bbox, mapping(footprint))
+
+    def scrub_item_id(self, id):
+        if "1/3" in id:
+            return re.sub("1/3", "1-3", id)
+        if "1/9" in id: 
+            return re.sub("1/9", "1-9", id)
+
+        return id
        

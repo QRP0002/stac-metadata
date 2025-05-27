@@ -62,7 +62,7 @@ with open('../data/config.json') as config:
         catalog.normalize_hrefs(f'../output/{catalog.id}')
         catalog.save(catalog_type=pystac.CatalogType.SELF_CONTAINED)
 
-        # UploadStac().upload_catalog(catalog.id, f'../output/{catalog.id}/catalog.json')
+        UploadStac().upload_catalog(catalog.id, f'../output/{catalog.id}/catalog.json')
 
         collection_path = f'../output/{catalog.id}'
         collection_dir_path =f'{catalog.id}'
@@ -71,13 +71,13 @@ with open('../data/config.json') as config:
             coll_path = f'{collection_dir_path}/{coll.id}'
             local_coll_path = f'{collection_path}/{coll.id}'
 
-            # UploadStac().upload_collection(coll_path, f'{local_coll_path}/collection.json')
+            UploadStac().upload_collection(coll_path, f'{local_coll_path}/collection.json')
 
             # Add collection item meta data
             for item in coll.get_items():
                 item_bucket = f'{coll_path}/{item.id}'
                 local_item_path = f'{local_coll_path}/{item.id}/{item.id}.json'
         
-                # UploadStac().upload_item(item_bucket, local_item_path)
+                UploadStac().upload_item(item_bucket, local_item_path)
     config.close()
 print("We did it Reddit!")
